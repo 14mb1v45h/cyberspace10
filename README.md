@@ -1,5 +1,3 @@
-# cyberspace10
-Advanced Malware Scanner and Firewall
 # Advanced Malware Scanner and Firewall
 
 Welcome to the **Advanced Malware Scanner and Firewall** repository! This project is a comprehensive solution designed to enhance cybersecurity by detecting and removing malware, as well as implementing a basic firewall to monitor and block unauthorized network access.
